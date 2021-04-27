@@ -2,24 +2,23 @@
 <rss version="2.0">
 
 <channel>
-  <title></title>
-  <link></link>
-  <description></description>
+  <title>PersonaxeRSS</title>
+  <link>https://marmb7.github.io/personaxeRSS/</link>
+  <description>Personaxes varios</description>
   <item>
-    <title></title>
-    <link></link>
-    <description></description>
+    <title>Filemón</title>
+    <link>https://marmb7.github.io/personaxeRSS/</link>
+    <description>Personaxe Filemón</description>
   </item>
   <item>
-    <title></title>
-    <link></link>
-    <description></description>
+    <title>Mortadelo</title>
+    <link>https://marmb7.github.io/personaxeRSS/</link>
+    <description>Personaxe Mortadelo</description>
   </item>
   <item>
-    <title></title>
-    <link></link>
-    <description></description>
+    <title>Toretto</title>
+    <link>https://marmb7.github.io/personaxeRSS/</link>
+    <description>Personaxe de FastandFurious Toretto</description>
   </item>
 </channel>
-
 </rss>
