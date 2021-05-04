@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>PersonaxeRSS</title>
+  <link>https://marmb7.github.io/personaxeRSS/</link>
+  <description>Personaxes varios</description>
+  <image>
+    <url>https://img.aullidos.com/imagenes/varios/mejores-personajes-femeninos-fantastico.jpg</url>
+    <title>PersonaxesRSS</title>
+    <link>https://marmb7.github.io/personaxeRSS/</link>
+  </image>
+  <item>
+    <title>Filemón</title>
+    <link>https://marmb7.github.io/personaxeRSS/filemon.html</link>
+    <description>Personaxe Filemón</description>
+  </item>
+  <item>
+    <title>Mortadelo</title>
+    <link>https://marmb7.github.io/personaxeRSS/mortadelo.html</link>
+    <description>Personaxe Mortadelo</description>
+  </item>
+  <item>
+    <title>Toretto</title>
+    <link></link>
+    <description>Personaxe de FastandFurious Toretto</description>
+  </item>
+</channel>
+</rss>
